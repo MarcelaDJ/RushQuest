@@ -72,3 +72,40 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# custom
+*.log
+*.tmp
+*.obj
+*.pch
+*.exe
+*.pdb
+*.dll
+*.lib
+*.suo
+*.opensdf
+*.sdf
+*.ipch
+*.iobj
+*.iopdb
+*.res
+*.dat
+*.o
+*.lo
+*.la
+*.class
+*.tlog
+*.lastbuildstate
+*.sln
+*.VC.db
+*.VC.opendb
+
+# Carpetas específicas de Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Archivos de configuración específicos de usuario
+*.userprefs
+*.user
